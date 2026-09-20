@@ -64,6 +64,7 @@
 - [playwright-magic-steps](https://github.com/vitalets/playwright-magic-steps) - Auto-transform JavaScript comments into Playwright steps.
 - [playwright-network-cache](https://github.com/vitalets/playwright-network-cache) - Speed up Playwright tests by caching network requests on the filesystem.
 - [Playwright-performance](https://www.npmjs.com/package/playwright-performance) - Plugin for measuring and analyzing performance of tested flows using Playwright.
+- [pixelpact](https://github.com/jamalkamaladdin/pixelpact) - Extracts a visual contract from a reference page and reports the size, color, spacing and typography values that drifted in an implementation.
 - [playwright-python-language-injection](https://github.com/Mattwmaster58/playwright-python-language-injection) - Language injection definitions for CSS/JS syntax highlighting when using `python-playwright` in PyCharm.
 - [playwright-skill](https://github.com/testdino-hq/playwright-skill) - 70+ production-tested Playwright skills for coding agents covering best practices, POM patterns, CI/CD, and migration paths.
 - [playwright-soak-test](https://github.com/denodell/playwright-soak-test) - Catches memory leaks by repeating a user flow in one browser session and tracking DOM node and listener counts.
