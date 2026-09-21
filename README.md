@@ -125,6 +125,7 @@
 ## Guides
 
 - [Currents Blog](https://currents.dev/blog/playwright) - Playwright articles written by QA professionals.
+- [Endform Playwright Best Practices Tutorial](https://github.com/endformdev/playwright-tutorial) - Walkthrough of Playwright setup, test generation, and cloud runs for a full SaaS application.
 - [Playwright Tips (videos)](https://www.youtube.com/playlist?list=PLMZDRUOi3a8NtMq3PUS5iJc2pee38rurc) - Video walkthroughs of common challenges testing and monitoring with Playwright.
 - [Playwright Weekly](https://playwrightweekly.com) - Curated aggregator of Playwright articles & news from the internet.
 - [playwrightsolutions.com](https://playwrightsolutions.com) - Curated Selection of Playwright Automated Test Problems and Solutions.
